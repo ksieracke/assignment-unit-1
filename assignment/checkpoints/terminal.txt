@@ -19,3 +19,4 @@ to check the status of your files to see if you should commit
 # 9 - What does the command 'git add .' do?
 adds your files to the staging area so they are ready to commit
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+git push orgin main
